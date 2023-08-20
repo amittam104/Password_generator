@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator in Python
 Password generator using characters, numbers and symbols.
 
 Created this program while learning Python fundamentals.
