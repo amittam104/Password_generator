@@ -1,5 +1,5 @@
 # Build a random password generator. It should include characters, numbers and symbols and the length should be 8 min.
-# But it should use any one symbol only once. And only one uppercase
+# But it should use any one symbol only once.
 
 import random
 import string
